@@ -23,7 +23,7 @@ The AI Classifier App is a graphical interface application designed to identify 
 
 - Logging and Persistence: Saves training data and model checkpoints to disk for future use.
 
-# Requirements
+## Requirements
 
 - Python 3.8 or higher
 
